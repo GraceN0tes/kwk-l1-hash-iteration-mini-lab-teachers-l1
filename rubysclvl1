@@ -1,0 +1,4 @@
+given = "New York"
+puts capitals[states[given]]
+
+#Level2
